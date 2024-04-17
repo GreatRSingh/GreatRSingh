@@ -8,19 +8,10 @@ Hello! I'm Rakshit Kumar Singh, a passionate Machine Learning Engineer.
 - Organiser Tensor Flow User Group Rourkela.
 
 ## Skills
-
-- Languages:
-  - Python (adept | Mostly Use)
-  - Rust (Started)
-  - JavaScript (Basic)
-  - C/C++ (Basic)
-  - Java (Intermediate)
-- Frameworks:
-  - PyTorch
-  - Tensorflow
-  - Sci-kit Learn
+- Machine Learning / Deep Learning
+- Backend Engineering
 - Other Skills:
-  - Git/GitHub
+  - Version Control (Git / Github)
 
 ## Education
 
@@ -30,6 +21,6 @@ Hello! I'm Rakshit Kumar Singh, a passionate Machine Learning Engineer.
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rakshit-singh-ai/) or follow me on [GitHub](https://github.com/GreatRSingh). I'm always excited to collaborate on new projects and learn from fellow developers.
+Feel free to connect with me on [Blog](http://blog.greatrsingh.in), [LinkedIn](https://www.linkedin.com/in/rakshit-singh-ai/) or follow me on [GitHub](https://github.com/GreatRSingh). I'm always excited to collaborate on new projects and learn from fellow developers.
 
 Let's code and create amazing web experiences together!
