@@ -21,6 +21,6 @@ Hello! I'm Rakshit Kumar Singh, a passionate Machine Learning Engineer.
 
 ## Connect with Me
 
-Feel free to connect with me on [Blog](http://blog.greatrsingh.in), [LinkedIn](https://www.linkedin.com/in/rakshit-singh-ai/) or follow me on [GitHub](https://github.com/GreatRSingh). I'm always excited to collaborate on new projects and learn from fellow developers.
+Feel free to connect with me on [Blog](http://blog.greatrsingh.in), [LinkedIn](https://www.linkedin.com/in/rakshit-singh-ai/) or follow me on [GitHub](https://github.com/GreatRSingh). Though I'm always excited to collaborate on new projects and learn from fellow developers still I might not be able to complete the tasks due to my busy schedule.
 
-Let's code and create amazing web experiences together!
+Let's code and create amazing brains together!
