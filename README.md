@@ -3,9 +3,9 @@
 Hello! I'm Rakshit Kumar Singh, a passionate Machine Learning Engineer.
 
 - Research Fellow at Deep Forest Sciences.
-- Google Summer of Code 2023 mentee at DeepChem.
-- Machine Learning For Everyone Technical Head.
-- Organiser Tensor Flow User Group Rourkela.
+- Google Summer of Code 2023 mentee.
+- Google Summer of code 2024 mentor at DeepChem.
+- Machine Learning For Everyone CLUB President.
 
 ## Skills
 - Machine Learning / Deep Learning
